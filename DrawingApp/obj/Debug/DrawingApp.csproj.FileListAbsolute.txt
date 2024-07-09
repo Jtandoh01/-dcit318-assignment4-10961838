@@ -1,0 +1,10 @@
+E:\p2\dcit318-assignment4-10961838\DrawingApp\bin\Debug\DrawingApp.exe.config
+E:\p2\dcit318-assignment4-10961838\DrawingApp\bin\Debug\DrawingApp.exe
+E:\p2\dcit318-assignment4-10961838\DrawingApp\bin\Debug\DrawingApp.pdb
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.Form1.resources
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.exe
+E:\p2\dcit318-assignment4-10961838\DrawingApp\obj\Debug\DrawingApp.pdb
