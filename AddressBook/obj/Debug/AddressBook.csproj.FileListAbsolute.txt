@@ -1,0 +1,10 @@
+E:\p2\dcit318-assignment4-10961838\AddressBook\bin\Debug\AddressBook.exe.config
+E:\p2\dcit318-assignment4-10961838\AddressBook\bin\Debug\AddressBook.exe
+E:\p2\dcit318-assignment4-10961838\AddressBook\bin\Debug\AddressBook.pdb
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.Form1.resources
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.exe
+E:\p2\dcit318-assignment4-10961838\AddressBook\obj\Debug\AddressBook.pdb
